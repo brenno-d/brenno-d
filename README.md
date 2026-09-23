@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Atualmente cursando técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio, também tenho bastante interesse em programação, leetcode e livros sobre a àrea.</p>
+<p align="left">Atualmente cursando técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio, também tenho bastante interesse em programação, leetcode e livros sobre a área.</p>
 
 ###
 
